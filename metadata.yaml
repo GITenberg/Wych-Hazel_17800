@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7605
     wikipedia: http://en.wikipedia.org/wiki/Anna_Bartlett_Warner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17800#Wych-Hazel
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
 identifiers:
