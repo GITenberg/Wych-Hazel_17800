@@ -1,0 +1,39 @@
+_repo: Wych-Hazel_17800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Warner, Susan
+    aliases:
+    - Warner, Susan Bogert
+    - Wetherell, Elizabeth
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+  - agent_name: Warner, Anna Bartlett
+    aliases:
+    - Warner, A. B. (Anna Bartlett)
+    - Lothrop, Amy
+    birthdate: 1824
+    deathdate: 1915
+    gutenberg_agent_id: '7605'
+    url: http://www.gutenberg.org/2009/agents/7605
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Bartlett_Warner
+description: ''
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcc 'PS'
+title: Wych Hazel
+url: http://www.gutenberg.org/ebooks/17800
